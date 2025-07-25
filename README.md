@@ -1,6 +1,6 @@
-# flutter_application_1
+# Lumio
 
-A new Flutter project.
+Lumio- is a multifunctional app contains realtime weather, movie manager,marketplace, food delivery, booking events
 
 ## Getting Started
 
